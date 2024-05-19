@@ -20,6 +20,7 @@ The repository archives papers concerning **Efficient LLM Inference** and corres
 Corresponding authors: Yuan Mingxuan, Zhen Huiling, Bai Haoli, Chen Lei, Yin Lihao, Li Xing, Li Yiming, Jiang Yuan; @ Huawei Noah's Ark Lab EDA4LLM Group;
 
 ## Useful Reference
+- **Awesome LLM Inference**, git repo [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
 ## Taxonomy
 
