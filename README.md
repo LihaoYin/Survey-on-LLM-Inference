@@ -4,7 +4,7 @@
 
 ### Toxonomy
 
-[Taxonomy of Efficient LLM Inference](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)
+[Taxonomy of Efficient LLM Inference](https://github.com/LihaoYin/Survey-on-LLM-Inference/blob/main/Images/Toxonomy.png)
 
 ## 1. Paper Reading Progress
 
