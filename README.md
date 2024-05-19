@@ -17,8 +17,6 @@
 
 ## Taxonomy
 
-The paper reading concerning **efficient LLM inference** set off with the below taxonomy:
-
 ![Taxonomy of Efficient LLM Inference](https://github.com/LihaoYin/Survey-on-LLM-Inference/blob/main/Images/Taxonomy.png)
 
 # 1. Paper Reading Progress
