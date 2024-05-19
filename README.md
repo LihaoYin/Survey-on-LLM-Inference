@@ -23,11 +23,11 @@
 
 
 
-| Paper Title | Related Topic | Reader | Link |
+| Paper Title | Taxonomy | Reader | Link |
 | :-------------------------------------------------------------| :-------- | :-------- | :--------|
 
 
-## 2. All Papers (Classifications according to Related Topics)
+## 2. All Papers (Classifications according to Taxonomy)
 - **大算子**
 
 - **Quantization**
@@ -44,3 +44,10 @@
 
 
 ## 3. All Paper Survey
+
+### SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification (ASPLOS 2024)
+
+* <img src="Image/pdf_24px.png">[Paper](https://dl.acm.org/doi/abs/10.1145/3620666.3651335)
+**Taxonomy:** Dynamic Inference
+  
+**Notes:** 
