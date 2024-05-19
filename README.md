@@ -2,7 +2,8 @@
 
 ## Contents
 
-0. [Introduction](#0-Introduction) <br />
+- 0. [Introduction](#0-Introduction) <br />
+- 1. [Paper Reading Progress](#1-Paper-Reading-Progress) <br />
 
 
 ## 0. Introduction
