@@ -17,7 +17,7 @@ The repository archives papers concerning **Efficient LLM Inference** and corres
 
 ## Contributors
 
-Corresponding authors: Yuan Mingxuan, Zhen Huiling, Bai Haoli, Chen Lei, Yin Lihao, Li Xing, Li Yiming, Jiang Yuan; @ Noah's Ark Lab EDA4LLM Group;
+Corresponding authors: Yuan Mingxuan, Zhen Huiling, Bai Haoli, Chen Lei, Yin Lihao, Li Xing, Li Yiming, Jiang Yuan; @ Huawei Noah's Ark Lab EDA4LLM Group;
 
 ## Useful Reference
 
