@@ -40,7 +40,7 @@
 - [**Knowledge Distillation**](#35-knowledge-distillation)
 
 - [**Dynamic Inference**](#36-dynamic-inference)
-    -[SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification (ASPLOS 2024)](#specinfer-accelerating-large-language-model-serving-with-tree-based-speculative-inference-and-verification-asplos-2024)
+    - [SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification (ASPLOS 2024)](#specinfer-accelerating-large-language-model-serving-with-tree-based-speculative-inference-and-verification-asplos-2024)
 
 - [**System-level Optimization**](#37-system-level-optimization)
 
