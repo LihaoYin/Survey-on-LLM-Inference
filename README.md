@@ -4,9 +4,9 @@
 
 ### Contributor
 
-### Toxonomy
+### Taxonomy
 
-![Taxonomy of Efficient LLM Inference](https://github.com/LihaoYin/Survey-on-LLM-Inference/blob/main/Images/Toxonomy.png)
+![Taxonomy of Efficient LLM Inference](https://github.com/LihaoYin/Survey-on-LLM-Inference/blob/main/Images/Taxonomy.png)
 
 ## 1. Paper Reading Progress
 
