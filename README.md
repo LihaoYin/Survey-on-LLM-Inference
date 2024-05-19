@@ -2,13 +2,13 @@
 
 ## Contents
 
-- 0. [Introduction](#0-Introduction) <br />
+- [0. Introduction](#0-Introduction) <br />
 
-- 1. [Paper Reading Progress](#1-Paper-Reading-Progress) <br />
+- [1. Paper Reading Progress](#1-Paper-Reading-Progress) <br />
 
-- 2. [All Papers (Classifications according to Related Topics)](#2-all-papers-classifications-according-to-related-topics) <br />
+- [2. All Papers (Classifications according to Related Topics)](#2-all-papers-classifications-according-to-related-topics) <br />
 
-- 3. [All Paper Survey](#3-all-paper-survey) <br />
+- [3. All Paper Survey](#3-all-paper-survey) <br />
 
 
 ## 0. Introduction
