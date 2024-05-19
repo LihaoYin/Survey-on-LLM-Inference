@@ -2,6 +2,10 @@
 
 ## Contents
 
+### Toxonomy
+
+[Taxonomy of Efficient LLM Inference](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)
+
 ## 1. Paper Reading Progress
 
 | Paper Title | Related Topic | Reader | Link |
