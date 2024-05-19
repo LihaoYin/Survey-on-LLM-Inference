@@ -2,6 +2,11 @@
 
 ## Contents
 
+0. [Introduction](#0-Introduction) <br />
+
+
+## 0. Introduction
+
 ### Contributor
 
 ### Taxonomy
@@ -9,6 +14,8 @@
 ![Taxonomy of Efficient LLM Inference](https://github.com/LihaoYin/Survey-on-LLM-Inference/blob/main/Images/Taxonomy.png)
 
 ## 1. Paper Reading Progress
+
+
 
 | Paper Title | Related Topic | Reader | Link |
 | :-------------------------------------------------------------| :-------- | :-------- | :--------|
