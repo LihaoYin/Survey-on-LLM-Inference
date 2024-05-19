@@ -17,11 +17,11 @@
 
 ## Taxonomy
 
+The paper reading concerning **efficient LLM inference** set off with the below taxonomy:
+
 ![Taxonomy of Efficient LLM Inference](https://github.com/LihaoYin/Survey-on-LLM-Inference/blob/main/Images/Taxonomy.png)
 
 # 1. Paper Reading Progress
-
-
 
 | Paper Title | Taxonomy | Reader | Link |
 | :-------------------------------------------------------------| :-------- | :-------- | :--------|
@@ -30,6 +30,7 @@
 
 # 2. All Papers (Classifications according to Taxonomy)
 - [**Survey/Review**](#31-surveyreview)
+    - [A Survey on Efficient Inference for Large Language Models](#a-survey-on-efficient-inference-for-large-language-models-2024)
   
 - [**大算子**](#32-大算子)
 
@@ -50,6 +51,12 @@
 # 3. All Paper Reading Notes
 
 ## 3.1 Survey/Review
+
+### A Survey on Efficient Inference for Large Language Models (2024)
+
+* <img src="Image/pdf_24px.png">[Paper](https://arxiv.org/pdf/2404.14294)
+  
+**Notes:** 
 
 ## 3.2 大算子
 
