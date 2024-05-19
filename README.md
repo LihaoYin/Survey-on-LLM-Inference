@@ -35,7 +35,7 @@ Corresponding authors: Yuan Mingxuan, Zhen Huiling, Bai Haoli, Chen Lei, Yin Lih
 # 2. All Papers (Classifications according to Taxonomy)
 - [**Survey/Review**](#31-surveyreview)
     - [A Survey on Efficient Inference for Large Language Models](#a-survey-on-efficient-inference-for-large-language-models-2024)
-    - [Model Compression and Efficient Inference for Large Language Models: A Survey]()
+    - [Model Compression and Efficient Inference for Large Language Models: A Survey](#model-compression-and-efficient-inference-for-large-language-models-a-survey-2024)
   
 - [**大算子**](#32-大算子)
 
