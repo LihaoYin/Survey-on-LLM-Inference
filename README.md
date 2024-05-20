@@ -21,7 +21,7 @@ Corresponding authors: Yuan Mingxuan, Zhen Huiling, Bai Haoli, Chen Lei, Yin Lih
 
 ## Useful Resources
 - **Awesome LLM Inference**, git repo [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference).
-- **Awesome LLM**, detailed LLM resource collecions, git repo [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM). [a list of paper collections](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-papers).
+- **Awesome LLM**, [git repo](https://github.com/Hannibal046/Awesome-LLM), detailed LLM resource collecions. [a list of paper collections](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-papers).
 
 ## Taxonomy
 
