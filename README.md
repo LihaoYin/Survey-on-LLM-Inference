@@ -31,7 +31,7 @@ Corresponding authors: Yuan Mingxuan, Zhen Huiling, Bai Haoli, Chen Lei, Yin Lih
 
 | Paper Title | Taxonomy | Reader | Link |
 | :-------------------------------------------------------------| :-------- | :-------- | :--------|
-| SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification (ASPLOS 2024)| Dynamic Inference | Yin, Lihao | [paper](https://dl.acm.org/doi/abs/10.1145/3620666.3651335), [note](#specinfer-accelerating-large-language-model-serving-with-tree-based-speculative-inference-and-verification-asplos-2024)|
+| SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification (ASPLOS 2024)| Dynamic Inference | Yin, Lihao | [paper](https://dl.acm.org/doi/abs/10.1145/3620666.3651335), [notes](#specinfer-accelerating-large-language-model-serving-with-tree-based-speculative-inference-and-verification-asplos-2024)|
 
 
 # 2. All Papers (Classifications according to Taxonomy)
